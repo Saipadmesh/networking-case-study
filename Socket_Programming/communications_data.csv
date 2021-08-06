@@ -1,0 +1,4 @@
+ipaddress,src,dest,message,timestamp,priority
+192.168.0.8,Earth,Mars,Hello,2021-07-30 22:49:59.097841,1
+192.168.0.8,Mars,Earth,Sup,2021-07-30 22:50:40.231920,1
+192.168.0.8,Moon,Earth,I'm gonna cause some tides tonight,2021-07-30 22:51:13.106997,4
